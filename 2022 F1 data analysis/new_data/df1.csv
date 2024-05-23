@@ -1,0 +1,369 @@
+Track,Position,Driver,Team,Points,Country,Abbreviation,Full Team Name,Team Chief,Base,Chassis
+Bahrain,1,Charles Leclerc,Ferrari,26,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Bahrain,2,Carlos Sainz,Ferrari,18,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Bahrain,3,Lewis Hamilton,Mercedes,15,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Bahrain,4,George Russell,Mercedes,12,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Bahrain,5,Kevin Magnussen,Haas Ferrari,10,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Bahrain,6,Valtteri Bottas,Alfa Romeo Ferrari,8,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Bahrain,7,Esteban Ocon,Alpine Renault,6,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Bahrain,8,Yuki Tsunoda,AlphaTauri RBPT,4,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Bahrain,9,Fernando Alonso,Alpine Renault,2,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Bahrain,10,Guanyu Zhou,Alfa Romeo Ferrari,1,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Bahrain,11,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Bahrain,12,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Bahrain,13,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Bahrain,14,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Bahrain,15,Lando Norris,McLaren Mercedes,0,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Bahrain,16,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Bahrain,17,Nico Hulkenberg,Aston Martin Aramco Mercedes,0,Germany,HUL,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Saudi Arabia,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Saudi Arabia,2,Charles Leclerc,Ferrari,19,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Saudi Arabia,3,Carlos Sainz,Ferrari,15,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Saudi Arabia,4,Sergio Perez,Red Bull Racing RBPT,12,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Saudi Arabia,5,George Russell,Mercedes,10,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Saudi Arabia,6,Esteban Ocon,Alpine Renault,8,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Saudi Arabia,7,Lando Norris,McLaren Mercedes,6,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Saudi Arabia,8,Pierre Gasly,AlphaTauri RBPT,4,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Saudi Arabia,9,Kevin Magnussen,Haas Ferrari,2,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Saudi Arabia,10,Lewis Hamilton,Mercedes,1,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Saudi Arabia,11,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Saudi Arabia,12,Nico Hulkenberg,Aston Martin Aramco Mercedes,0,Germany,HUL,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Saudi Arabia,13,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Saudi Arabia,NC,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Saudi Arabia,NC,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Australia,1,Charles Leclerc,Ferrari,26,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Australia,2,Sergio Perez,Red Bull Racing RBPT,18,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Australia,3,George Russell,Mercedes,15,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Australia,4,Lewis Hamilton,Mercedes,12,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Australia,5,Lando Norris,McLaren Mercedes,10,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Australia,6,Daniel Ricciardo,McLaren Mercedes,8,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Australia,7,Esteban Ocon,Alpine Renault,6,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Australia,8,Valtteri Bottas,Alfa Romeo Ferrari,4,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Australia,9,Pierre Gasly,AlphaTauri RBPT,2,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Australia,10,Alexander Albon,Williams Mercedes,1,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Australia,11,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Australia,12,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Australia,13,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Australia,14,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Australia,15,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Australia,16,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Australia,17,Fernando Alonso,Alpine Renault,0,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Emilia Romagna,1,Max Verstappen,Red Bull Racing RBPT,26,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Emilia Romagna,2,Sergio Perez,Red Bull Racing RBPT,18,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Emilia Romagna,3,Lando Norris,McLaren Mercedes,15,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Emilia Romagna,4,George Russell,Mercedes,12,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Emilia Romagna,5,Valtteri Bottas,Alfa Romeo Ferrari,10,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Emilia Romagna,6,Charles Leclerc,Ferrari,8,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Emilia Romagna,7,Yuki Tsunoda,AlphaTauri RBPT,6,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Emilia Romagna,8,Sebastian Vettel,Aston Martin Aramco Mercedes,4,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Emilia Romagna,9,Kevin Magnussen,Haas Ferrari,2,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Emilia Romagna,10,Lance Stroll,Aston Martin Aramco Mercedes,1,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Emilia Romagna,11,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Emilia Romagna,12,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Emilia Romagna,13,Lewis Hamilton,Mercedes,0,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Emilia Romagna,14,Esteban Ocon,Alpine Renault,0,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Emilia Romagna,15,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Emilia Romagna,16,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Emilia Romagna,17,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Emilia Romagna,18,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Miami,1,Max Verstappen,Red Bull Racing RBPT,26,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Miami,2,Charles Leclerc,Ferrari,18,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Miami,3,Carlos Sainz,Ferrari,15,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Miami,4,Sergio Perez,Red Bull Racing RBPT,12,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Miami,5,George Russell,Mercedes,10,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Miami,6,Lewis Hamilton,Mercedes,8,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Miami,7,Valtteri Bottas,Alfa Romeo Ferrari,6,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Miami,8,Esteban Ocon,Alpine Renault,4,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Miami,9,Alexander Albon,Williams Mercedes,2,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Miami,10,Lance Stroll,Aston Martin Aramco Mercedes,1,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Miami,11,Fernando Alonso,Alpine Renault,0,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Miami,12,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Miami,13,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Miami,14,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Miami,15,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Spain,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Spain,2,Sergio Perez,Red Bull Racing RBPT,19,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Spain,3,George Russell,Mercedes,15,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Spain,4,Carlos Sainz,Ferrari,12,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Spain,5,Lewis Hamilton,Mercedes,10,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Spain,6,Valtteri Bottas,Alfa Romeo Ferrari,8,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Spain,7,Esteban Ocon,Alpine Renault,6,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Spain,8,Lando Norris,McLaren Mercedes,4,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Spain,9,Fernando Alonso,Alpine Renault,2,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Spain,10,Yuki Tsunoda,AlphaTauri RBPT,1,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Spain,11,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Spain,12,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Spain,13,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Spain,14,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Spain,15,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Spain,16,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Spain,17,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Spain,18,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Monaco,1,Sergio Perez,Red Bull Racing RBPT,25,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Monaco,2,Carlos Sainz,Ferrari,18,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Monaco,3,Max Verstappen,Red Bull Racing RBPT,15,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Monaco,4,Charles Leclerc,Ferrari,12,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Monaco,5,George Russell,Mercedes,10,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Monaco,6,Lando Norris,McLaren Mercedes,9,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Monaco,7,Fernando Alonso,Alpine Renault,6,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Monaco,8,Lewis Hamilton,Mercedes,4,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Monaco,9,Valtteri Bottas,Alfa Romeo Ferrari,2,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Monaco,10,Sebastian Vettel,Aston Martin Aramco Mercedes,1,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Monaco,11,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Monaco,12,Esteban Ocon,Alpine Renault,0,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Monaco,13,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Monaco,14,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Monaco,15,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Monaco,16,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Monaco,17,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Azerbaijan,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Azerbaijan,2,Sergio Perez,Red Bull Racing RBPT,19,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Azerbaijan,3,George Russell,Mercedes,15,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Azerbaijan,4,Lewis Hamilton,Mercedes,12,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Azerbaijan,5,Pierre Gasly,AlphaTauri RBPT,10,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Azerbaijan,6,Sebastian Vettel,Aston Martin Aramco Mercedes,8,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Azerbaijan,7,Fernando Alonso,Alpine Renault,6,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Azerbaijan,8,Daniel Ricciardo,McLaren Mercedes,4,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Azerbaijan,9,Lando Norris,McLaren Mercedes,2,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Azerbaijan,10,Esteban Ocon,Alpine Renault,1,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Azerbaijan,11,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Azerbaijan,12,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Azerbaijan,13,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Azerbaijan,14,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Azerbaijan,15,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Canada,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Canada,2,Carlos Sainz,Ferrari,19,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Canada,3,Lewis Hamilton,Mercedes,15,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Canada,4,George Russell,Mercedes,12,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Canada,5,Charles Leclerc,Ferrari,10,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Canada,6,Esteban Ocon,Alpine Renault,8,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Canada,7,Valtteri Bottas,Alfa Romeo Ferrari,6,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Canada,8,Guanyu Zhou,Alfa Romeo Ferrari,4,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Canada,9,Fernando Alonso,Alpine Renault,2,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Canada,10,Lance Stroll,Aston Martin Aramco Mercedes,1,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Canada,11,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Canada,12,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Canada,13,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Canada,14,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Canada,15,Lando Norris,McLaren Mercedes,0,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Canada,16,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Canada,17,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Great Britain,1,Carlos Sainz,Ferrari,25,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Great Britain,2,Sergio Perez,Red Bull Racing RBPT,18,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Great Britain,3,Lewis Hamilton,Mercedes,16,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Great Britain,4,Charles Leclerc,Ferrari,12,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Great Britain,5,Fernando Alonso,Alpine Renault,10,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Great Britain,6,Lando Norris,McLaren Mercedes,8,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Great Britain,7,Max Verstappen,Red Bull Racing RBPT,6,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Great Britain,8,Mick Schumacher,Haas Ferrari,4,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Great Britain,9,Sebastian Vettel,Aston Martin Aramco Mercedes,2,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Great Britain,10,Kevin Magnussen,Haas Ferrari,1,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Great Britain,11,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Great Britain,12,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Great Britain,13,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Great Britain,14,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Austria,1,Charles Leclerc,Ferrari,25,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Austria,2,Max Verstappen,Red Bull Racing RBPT,19,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Austria,3,Lewis Hamilton,Mercedes,15,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Austria,4,George Russell,Mercedes,12,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Austria,5,Esteban Ocon,Alpine Renault,10,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Austria,6,Mick Schumacher,Haas Ferrari,8,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Austria,7,Lando Norris,McLaren Mercedes,6,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Austria,8,Kevin Magnussen,Haas Ferrari,4,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Austria,9,Daniel Ricciardo,McLaren Mercedes,2,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Austria,10,Fernando Alonso,Alpine Renault,1,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Austria,11,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Austria,12,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Austria,13,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Austria,14,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Austria,15,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Austria,16,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Austria,17,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+France,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+France,2,Lewis Hamilton,Mercedes,18,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+France,3,George Russell,Mercedes,15,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+France,4,Sergio Perez,Red Bull Racing RBPT,12,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+France,5,Carlos Sainz,Ferrari,11,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+France,6,Fernando Alonso,Alpine Renault,8,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+France,7,Lando Norris,McLaren Mercedes,6,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+France,8,Esteban Ocon,Alpine Renault,4,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+France,9,Daniel Ricciardo,McLaren Mercedes,2,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+France,10,Lance Stroll,Aston Martin Aramco Mercedes,1,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+France,11,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+France,12,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+France,13,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+France,14,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+France,15,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+France,16,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Hungary,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Hungary,2,Lewis Hamilton,Mercedes,19,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Hungary,3,George Russell,Mercedes,15,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Hungary,4,Carlos Sainz,Ferrari,12,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Hungary,5,Sergio Perez,Red Bull Racing RBPT,10,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Hungary,6,Charles Leclerc,Ferrari,8,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Hungary,7,Lando Norris,McLaren Mercedes,6,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Hungary,8,Fernando Alonso,Alpine Renault,4,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Hungary,9,Esteban Ocon,Alpine Renault,2,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Hungary,10,Sebastian Vettel,Aston Martin Aramco Mercedes,1,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Hungary,11,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Hungary,12,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Hungary,13,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Hungary,14,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Hungary,15,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Hungary,16,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Hungary,17,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Hungary,18,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Hungary,19,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Belgium,1,Max Verstappen,Red Bull Racing RBPT,26,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Belgium,2,Sergio Perez,Red Bull Racing RBPT,18,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Belgium,3,Carlos Sainz,Ferrari,15,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Belgium,4,George Russell,Mercedes,12,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Belgium,5,Fernando Alonso,Alpine Renault,10,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Belgium,6,Charles Leclerc,Ferrari,8,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Belgium,7,Esteban Ocon,Alpine Renault,6,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Belgium,8,Sebastian Vettel,Aston Martin Aramco Mercedes,4,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Belgium,9,Pierre Gasly,AlphaTauri RBPT,2,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Belgium,10,Alexander Albon,Williams Mercedes,1,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Belgium,11,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Belgium,12,Lando Norris,McLaren Mercedes,0,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Belgium,13,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Belgium,14,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Belgium,15,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Belgium,16,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Belgium,17,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Belgium,18,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Netherlands,1,Max Verstappen,Red Bull Racing RBPT,26,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Netherlands,2,George Russell,Mercedes,18,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Netherlands,3,Charles Leclerc,Ferrari,15,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Netherlands,4,Lewis Hamilton,Mercedes,12,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Netherlands,5,Sergio Perez,Red Bull Racing RBPT,10,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Netherlands,6,Fernando Alonso,Alpine Renault,8,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Netherlands,7,Lando Norris,McLaren Mercedes,6,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Netherlands,8,Carlos Sainz,Ferrari,4,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Netherlands,9,Esteban Ocon,Alpine Renault,2,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Netherlands,10,Lance Stroll,Aston Martin Aramco Mercedes,1,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Netherlands,11,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Netherlands,12,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Netherlands,13,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Netherlands,14,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Netherlands,15,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Netherlands,16,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Netherlands,17,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Netherlands,18,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Italy,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Italy,2,Charles Leclerc,Ferrari,18,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Italy,3,George Russell,Mercedes,15,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Italy,4,Carlos Sainz,Ferrari,12,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Italy,5,Lewis Hamilton,Mercedes,10,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Italy,6,Sergio Perez,Red Bull Racing RBPT,9,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Italy,7,Lando Norris,McLaren Mercedes,6,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Italy,8,Pierre Gasly,AlphaTauri RBPT,4,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Italy,9,Nyck De Vries,Williams Mercedes,2,Netherlands,DEV,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Italy,10,Guanyu Zhou,Alfa Romeo Ferrari,1,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Italy,11,Esteban Ocon,Alpine Renault,0,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Italy,12,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Italy,13,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Italy,14,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Italy,15,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Italy,16,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Singapore,1,Sergio Perez,Red Bull Racing RBPT,25,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Singapore,2,Charles Leclerc,Ferrari,18,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Singapore,3,Carlos Sainz,Ferrari,15,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Singapore,4,Lando Norris,McLaren Mercedes,12,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Singapore,5,Daniel Ricciardo,McLaren Mercedes,10,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Singapore,6,Lance Stroll,Aston Martin Aramco Mercedes,8,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Singapore,7,Max Verstappen,Red Bull Racing RBPT,6,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Singapore,8,Sebastian Vettel,Aston Martin Aramco Mercedes,4,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Singapore,9,Lewis Hamilton,Mercedes,2,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Singapore,10,Pierre Gasly,AlphaTauri RBPT,1,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Singapore,11,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Singapore,12,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Singapore,13,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Singapore,14,George Russell,Mercedes,0,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Japan,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Japan,2,Sergio Perez,Red Bull Racing RBPT,18,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Japan,3,Charles Leclerc,Ferrari,15,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Japan,4,Esteban Ocon,Alpine Renault,12,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Japan,5,Lewis Hamilton,Mercedes,10,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Japan,6,Sebastian Vettel,Aston Martin Aramco Mercedes,8,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Japan,7,Fernando Alonso,Alpine Renault,6,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Japan,8,George Russell,Mercedes,4,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Japan,9,Nicholas Latifi,Williams Mercedes,2,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Japan,10,Lando Norris,McLaren Mercedes,1,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Japan,11,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Japan,12,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Japan,13,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Japan,14,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Japan,15,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Japan,16,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Japan,17,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Japan,18,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+United States,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+United States,2,Lewis Hamilton,Mercedes,18,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+United States,3,Charles Leclerc,Ferrari,15,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+United States,4,Sergio Perez,Red Bull Racing RBPT,12,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+United States,5,George Russell,Mercedes,11,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+United States,6,Lando Norris,McLaren Mercedes,8,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+United States,7,Fernando Alonso,Alpine Renault,6,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+United States,8,Sebastian Vettel,Aston Martin Aramco Mercedes,4,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+United States,9,Kevin Magnussen,Haas Ferrari,2,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+United States,10,Yuki Tsunoda,AlphaTauri RBPT,1,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+United States,11,Esteban Ocon,Alpine Renault,0,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+United States,12,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+United States,13,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+United States,14,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+United States,15,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+United States,16,Daniel Ricciardo,McLaren Mercedes,0,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+United States,17,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Mexico,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Mexico,2,Lewis Hamilton,Mercedes,18,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Mexico,3,Sergio Perez,Red Bull Racing RBPT,15,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Mexico,4,George Russell,Mercedes,13,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Mexico,5,Carlos Sainz,Ferrari,10,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Mexico,6,Charles Leclerc,Ferrari,8,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Mexico,7,Daniel Ricciardo,McLaren Mercedes,6,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Mexico,8,Esteban Ocon,Alpine Renault,4,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Mexico,9,Lando Norris,McLaren Mercedes,2,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Mexico,10,Valtteri Bottas,Alfa Romeo Ferrari,1,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Mexico,11,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Mexico,12,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Mexico,13,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Mexico,14,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Mexico,15,Lance Stroll,Aston Martin Aramco Mercedes,0,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Mexico,16,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Mexico,17,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Mexico,18,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Brazil,1,George Russell,Mercedes,26,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Brazil,2,Lewis Hamilton,Mercedes,18,United Kingdom,HAM,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Brazil,3,Carlos Sainz,Ferrari,15,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Brazil,4,Charles Leclerc,Ferrari,12,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Brazil,5,Fernando Alonso,Alpine Renault,10,Spain,ALO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Brazil,6,Max Verstappen,Red Bull Racing RBPT,8,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Brazil,7,Sergio Perez,Red Bull Racing RBPT,6,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Brazil,8,Esteban Ocon,Alpine Renault,4,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Brazil,9,Valtteri Bottas,Alfa Romeo Ferrari,2,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Brazil,10,Lance Stroll,Aston Martin Aramco Mercedes,1,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Brazil,11,Sebastian Vettel,Aston Martin Aramco Mercedes,0,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Brazil,12,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Brazil,13,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Brazil,14,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Brazil,15,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Brazil,16,Nicholas Latifi,Williams Mercedes,0,Canada,LAT,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Brazil,17,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Abu Dhabi,1,Max Verstappen,Red Bull Racing RBPT,25,Netherlands,VER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Abu Dhabi,2,Charles Leclerc,Ferrari,18,Monaco,LEC,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Abu Dhabi,3,Sergio Perez,Red Bull Racing RBPT,15,Mexico,PER,Oracle Red Bull Racing,Christian Horner,"Milton Keynes, United Kingdom",RB18
+Abu Dhabi,4,Carlos Sainz,Ferrari,12,Spain,SAI,Scuderia Ferrari,Mattia Binotto,"Maranello, Italy",F1-75
+Abu Dhabi,5,George Russell,Mercedes,10,United Kingdom,RUS,Mercedes-AMG Petronas F1 Team,Toto Wolff,"Brackley, United Kingdom",W13
+Abu Dhabi,6,Lando Norris,McLaren Mercedes,9,United Kingdom,NOR,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Abu Dhabi,7,Esteban Ocon,Alpine Renault,6,France,OCO,BWT Alpine F1 Team,Otmar Szafneuer,"Enstone, United Kingdom",A522
+Abu Dhabi,8,Lance Stroll,Aston Martin Aramco Mercedes,4,Canada,STR,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Abu Dhabi,9,Daniel Ricciardo,McLaren Mercedes,2,Australia,RIC,McLaren F1 Team,Andreas Seidl,"Woking, United Kingdom",MCL36
+Abu Dhabi,10,Sebastian Vettel,Aston Martin Aramco Mercedes,1,Germany,VET,Aston Martin Aramco Cognizant F1 Team,Mike Crack,"Silverstone, United Kingdom",AMR22
+Abu Dhabi,11,Yuki Tsunoda,AlphaTauri RBPT,0,Japan,TSU,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Abu Dhabi,12,Guanyu Zhou,Alfa Romeo Ferrari,0,China,ZHO,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Abu Dhabi,13,Alexander Albon,Williams Mercedes,0,Thailand,ALB,Williams Racing,Jost Capito,"Grove, United Kingdom",FW44
+Abu Dhabi,14,Pierre Gasly,AlphaTauri RBPT,0,France,GAS,Scuderia AlphaTauri,Franz Tost,"Faenza, Italy",AT03
+Abu Dhabi,15,Valtteri Bottas,Alfa Romeo Ferrari,0,Finland,BOT,Alfa Romeo F1 Team ORLEN,Fr������d������ric,"Hinwil, Switzerland",C42
+Abu Dhabi,16,Mick Schumacher,Haas Ferrari,0,Germany,MSC,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
+Abu Dhabi,17,Kevin Magnussen,Haas Ferrari,0,Denmark,MAG,Haas F1 Team,Guenther Steiner,"Kannapolis, United States",VF-22
