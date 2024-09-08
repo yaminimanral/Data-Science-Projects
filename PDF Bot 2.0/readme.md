@@ -1,6 +1,5 @@
-# PDF Bot 2.0
+# PDF Bot 2.0 With NVIDIA NIM and Langchain
 
-## With NVIDIA NIM and Langchain
 This is a second attempt at document Q&A. 
 
 Resources used are listed below:
