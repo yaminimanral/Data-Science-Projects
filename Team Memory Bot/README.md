@@ -19,20 +19,20 @@ A scalable, memory-augmented Discord bot that captures, processes, and retrieves
 
 ## 🧰 Tech Stack
 
-- Language: Python
-- Framework: Discord.py (Bot API)
-- Embeddings: sentence-transformers
-- Vector Store: ChromaDB (SQLite-based)
-- Classifier: Custom ML classifier (scikit-learn style)
-- Retrieval: Semantic search (cosine similarity)
-- Config Mgmt: Python dotenv (.env files)
-- Structure: Clean, modular project layout
+- **Language:** Python
+- **Framework:** Discord.py (Bot API)
+- **Embeddings:** sentence-transformers
+- **Vector Store:** ChromaDB (SQLite-based)
+- **Classifier:** Custom ML classifier (scikit-learn style)
+- **Retrieval:** Semantic search (cosine similarity)
+- **Config Mgmt:** Python dotenv (.env files)
+- **Structure:** Clean, modular project layout
 
 ## 🛠️ Setup Instructions
 ### Clone the repository
 ```sh
-git clone <repo-url>
-cd team-memory-bot
+git clone "https://github.com/yaminimanral/Data-Science-Projects.git"
+cd Team Memory Bot
 ```
 
 ### Create a virtual environment
@@ -70,10 +70,10 @@ team-memory-bot/
 ```
 
 ## ✍️ Authors
-Rushi Karwankar - ![GitHub](https://github.com/rkarwankar)
-Yamini Manral - ![LinkedIn](https://www.linkedin.com/in/yaminimanral/)
+- Rushi Karwankar - [GitHub](https://github.com/rkarwankar) - [LinkedIn](https://www.linkedin.com/in/rushikesh-karwankar/)
+- Yamini Manral - [LinkedIn](https://www.linkedin.com/in/yaminimanral/)
 
 Contributions welcome – feel free to submit a PR!
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/yaminimanral/Data-Science-Projects/blob/main/LICENSE).
